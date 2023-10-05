@@ -1,4 +1,4 @@
-import html from './issue.html';
+import html from './issue.html?raw';
 
 export default {
   title: "Components/Issue",

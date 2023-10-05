@@ -1,4 +1,4 @@
-import html from "./login.html";
+import html from './login.html?raw';
 
 export default {
   title: "Pages/Account/Login",

@@ -1,4 +1,4 @@
-import html from './projects.html';
+import html from './projects.html?raw';
 
 export default {
   title: "Components/Box/Projects",

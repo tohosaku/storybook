@@ -1,4 +1,4 @@
-import html from './drdn-content.html';
+import html from './drdn-content.html?raw';
 
 export default {
   title: "Components/DrdnContent",

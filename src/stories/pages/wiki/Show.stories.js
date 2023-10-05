@@ -1,4 +1,4 @@
-import html from './show.html';
+import html from './show.html?raw';
 
 export default {
   title: "Pages/Wiki/Show",

@@ -1,4 +1,4 @@
-import html from './flash.html';
+import html from './flash.html?raw';
 
 export default {
   title: "Components/Flash",

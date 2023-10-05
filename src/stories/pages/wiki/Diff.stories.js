@@ -1,4 +1,4 @@
-import html from './diff.html';
+import html from './diff.html?raw';
 
 export default {
   title: "Pages/Wiki/Diff",

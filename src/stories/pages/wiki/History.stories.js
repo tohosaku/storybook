@@ -1,4 +1,4 @@
-import html from './history.html';
+import html from './history.html?raw';
 
 export default {
   title: "Pages/Wiki/History",

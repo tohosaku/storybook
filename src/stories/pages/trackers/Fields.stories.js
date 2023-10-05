@@ -1,4 +1,4 @@
-import html from './fields.html';
+import html from './fields.html?raw';
 
 export default {
   title: "Pages/Trackers/Fields",

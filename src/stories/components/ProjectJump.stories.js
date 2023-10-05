@@ -1,4 +1,4 @@
-import html from './project-jump.html';
+import html from './project-jump.html?raw';
 
 export default {
   title: "Components/ProjectJump",

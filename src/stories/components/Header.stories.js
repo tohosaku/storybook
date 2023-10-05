@@ -1,4 +1,4 @@
-import html from './header.html';
+import html from './header.html?raw';
 
 export default {
   title: "Components/Header",

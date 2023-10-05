@@ -1,4 +1,4 @@
-import html from './icons.html';
+import html from './icons.html?raw';
 
 export default {
   title: "Components/Icons",

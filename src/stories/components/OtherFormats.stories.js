@@ -1,4 +1,4 @@
-import html from './other-formats.html';
+import html from './other-formats.html?raw';
 
 export default {
   title: "Components/OtherFormats",

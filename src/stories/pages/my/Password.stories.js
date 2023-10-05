@@ -1,4 +1,4 @@
-import html from './password.html';
+import html from './password.html?raw';
 
 export default {
   title: "Pages/My/Password",

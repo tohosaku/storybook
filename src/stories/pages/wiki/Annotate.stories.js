@@ -1,4 +1,4 @@
-import html from './annotate.html';
+import html from './annotate.html?raw';
 import '../../../../public/stylesheets/scm.css';
 
 export default {

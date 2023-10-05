@@ -1,4 +1,4 @@
-import html from './issue_report_details.html';
+import html from './issue_report_details.html?raw';
 
 import '../../../../public/javascripts/tribute-5.1.3.min.js'
 // import '../../../../public/javascripts/tablesort-5.2.1.min.js'

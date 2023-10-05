@@ -1,4 +1,4 @@
-import html from './tabs.html';
+import html from './tabs.html?raw';
 
 export default {
   title: "Components/Tabs",

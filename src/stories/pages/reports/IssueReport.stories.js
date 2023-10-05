@@ -1,4 +1,4 @@
-import html from './issue_report.html';
+import html from './issue_report.html?raw';
 
 export default {
   title: "Pages/Reports/IssueReport",

@@ -1,4 +1,4 @@
-import layout from './layout_has-main-menu.html';
+import layout from './layout_has-main-menu.html?raw';
 
 export default {
   title: "Layout/Layout/LayoutHasMainMenu",

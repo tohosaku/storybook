@@ -1,4 +1,4 @@
-import html from './settings.html';
+import html from './settings.html?raw';
 
 export default {
   title: "Pages/Projects/Settings",

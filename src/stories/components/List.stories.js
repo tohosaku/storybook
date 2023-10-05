@@ -1,5 +1,5 @@
-import html1 from './list_issues1.html';
-import html2 from './list_issues2.html';
+import html1 from './list_issues1.html?raw';
+import html2 from './list_issues2.html?raw';
 
 export default {
   title: "Components/List",

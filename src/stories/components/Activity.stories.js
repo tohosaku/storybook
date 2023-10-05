@@ -1,4 +1,4 @@
-import html from './activity.html';
+import html from './activity.html?raw';
 
 export default {
   title: "Components/Activity",

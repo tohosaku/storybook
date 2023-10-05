@@ -1,4 +1,4 @@
-import html from './footer.html';
+import html from './footer.html?raw';
 
 export default {
   title: "Components/Footer",

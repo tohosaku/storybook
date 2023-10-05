@@ -1,4 +1,4 @@
-import html from './main_menu.html';
+import html from './main_menu.html?raw';
 
 export default {
   title: "Components/MainMenu",

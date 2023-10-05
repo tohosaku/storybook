@@ -1,4 +1,4 @@
-import html from './nodata.html';
+import html from './nodata.html?raw';
 
 export default {
   title: "Components/Nodata",

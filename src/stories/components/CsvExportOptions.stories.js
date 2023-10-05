@@ -1,4 +1,4 @@
-import html from './csv-export-options.html';
+import html from './csv-export-options.html?raw';
 
 export default {
   title: "Components/CsvExportOptions",

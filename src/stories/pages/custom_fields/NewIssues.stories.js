@@ -1,4 +1,4 @@
-import html from './new_issues.html';
+import html from './new_issues.html?raw';
 
 export default {
   title: "Pages/CustomFields/NewIssues",

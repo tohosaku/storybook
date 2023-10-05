@@ -1,5 +1,5 @@
-import html from "./index.html";
-import htmlList from "./index_list.html";
+import html from './index.html?raw';
+import htmlList from './index_list.html?raw';
 
 export default {
   title: "Pages/Projects/Index",

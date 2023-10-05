@@ -1,4 +1,4 @@
-import html from './page.html';
+import html from './page.html?raw';
 
 export default {
   title: "Pages/My/Page",

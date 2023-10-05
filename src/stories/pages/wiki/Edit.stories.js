@@ -1,4 +1,4 @@
-import html from './edit.html';
+import html from './edit.html?raw';
 
 export default {
   title: "Pages/Wiki/Edit",

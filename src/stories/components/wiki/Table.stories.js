@@ -1,4 +1,4 @@
-import html from './table.html';
+import html from './table.html?raw';
 import '../../../../public/stylesheets/tribute-5.1.3.css'
 
 export default {

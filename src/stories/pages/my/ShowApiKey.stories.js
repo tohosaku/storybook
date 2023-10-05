@@ -1,4 +1,4 @@
-import html from './show_api_key.html';
+import html from './show_api_key.html?raw';
 
 export default {
   title: "Pages/My/ShowApiKey",

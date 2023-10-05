@@ -1,4 +1,4 @@
-import html from "./info.html";
+import html from './info.html?raw';
 
 export default {
   title: "Pages/Admin/Info",

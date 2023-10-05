@@ -1,4 +1,4 @@
-import html from './attachments.html';
+import html from './attachments.html?raw';
 
 export default {
   title: "Components/Attachments",

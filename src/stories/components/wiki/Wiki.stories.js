@@ -1,5 +1,5 @@
-import html from './wiki.html';
-import html2 from './wiki_with_contextual.html';
+import html from './wiki.html?raw';
+import html2 from './wiki_with_contextual.html?raw';
 
 export default {
   title: "Components/Wiki/Wiki",

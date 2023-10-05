@@ -1,4 +1,4 @@
-import html from './ajax-indicator.html';
+import html from './ajax-indicator.html?raw';
 
 export default {
   title: "Components/AjaxIndicator",

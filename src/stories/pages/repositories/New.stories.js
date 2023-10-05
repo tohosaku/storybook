@@ -1,4 +1,4 @@
-import html from './new.html';
+import html from './new.html?raw';
 
 export default {
   title: "Pages/Repositories/New",

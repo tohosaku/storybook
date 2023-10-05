@@ -1,4 +1,4 @@
-import html from "./show.html";
+import html from './show.html?raw';
 import '../../../../public/stylesheets/context_menu.css';
 
 export default {

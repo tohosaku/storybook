@@ -1,4 +1,4 @@
-import html from './issues.html';
+import html from './issues.html?raw';
 
 export default {
   title: "Components/Box/Issues",

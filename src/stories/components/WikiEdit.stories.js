@@ -1,4 +1,4 @@
-import html from './wiki-edit.html';
+import html from './wiki-edit.html?raw';
 
 // import '../../../public/javascripts/jstoolbar/jstoolbar';
 // import '../../../public/javascripts/jstoolbar/common_mark';

@@ -1,4 +1,4 @@
-import html from './context-menu.html';
+import html from './context-menu.html?raw';
 import '../../../public/javascripts/context_menu';
 import '../../../public/stylesheets/context_menu.css';
 

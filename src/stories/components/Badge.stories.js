@@ -1,4 +1,4 @@
-import html from './badge.html';
+import html from './badge.html?raw';
 
 export default {
   title: "Components/Badge",

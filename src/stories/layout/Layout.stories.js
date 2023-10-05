@@ -1,5 +1,5 @@
-import layout from './layout.html';
-import layoutLogout from './layout_logout.html';
+import layout from './layout.html?raw';
+import layoutLogout from './layout_logout.html?raw';
 
 export default {
   title: "Layout/Layout",

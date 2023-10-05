@@ -1,4 +1,4 @@
-import html from "./register.html";
+import html from './register.html?raw';
 
 export default {
   title: "Pages/Account/Register",

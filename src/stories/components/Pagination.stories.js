@@ -1,4 +1,4 @@
-import html from './pagination.html';
+import html from './pagination.html?raw';
 
 export default {
   title: "Components/Pagination",

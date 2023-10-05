@@ -1,5 +1,5 @@
-import html from './top-menu.html';
-import html2 from './top-menu_logout.html';
+import html from './top-menu.html?raw';
+import html2 from './top-menu_logout.html?raw';
 
 export default {
   title: "Components/TopMenu",

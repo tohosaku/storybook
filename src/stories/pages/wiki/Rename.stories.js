@@ -1,4 +1,4 @@
-import html from './rename.html';
+import html from './rename.html?raw';
 
 export default {
   title: "Pages/Wiki/Rename",

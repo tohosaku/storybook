@@ -1,4 +1,4 @@
-import html from "./lost_password.html";
+import html from './lost_password.html?raw';
 
 export default {
   title: "Pages/Account/LostPassword",

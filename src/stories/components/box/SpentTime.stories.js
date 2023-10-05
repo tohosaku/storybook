@@ -1,4 +1,4 @@
-import html from './spent_time.html';
+import html from './spent_time.html?raw';
 
 export default {
   title: "Components/Box/SpentTime",

@@ -1,4 +1,4 @@
-import html from './topics.html';
+import html from './topics.html?raw';
 
 export default {
   title: "Pages/Boards/Topics",

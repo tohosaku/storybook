@@ -1,4 +1,4 @@
-import html from "./permissions.html";
+import html from './permissions.html?raw';
 
 export default {
   title: "Pages/Workflows/Copy",

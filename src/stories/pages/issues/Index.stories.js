@@ -1,4 +1,4 @@
-import html from "./index.html";
+import html from './index.html?raw';
 
 export default {
   title: "Pages/Issues/Index",

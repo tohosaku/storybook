@@ -1,5 +1,5 @@
-import html from './edit.html';
-import htmlAnonymous from './edit_anonymous.html';
+import html from './edit.html?raw';
+import htmlAnonymous from './edit_anonymous.html?raw';
 
 export default {
   title: "Pages/Roles/Edit",
