@@ -9,10 +9,6 @@ const config = {
     "@storybook/addon-interactions"
   ],
 
-  staticDirs: [
-    '../public'
-  ],
-
   "framework": {
     name: "@storybook/html-vite"
   },
