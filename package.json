@@ -10,16 +10,6 @@
   "keywords": [],
   "author": "Tsuyoshi Tsurushima",
   "license": "GPL-2.0-or-later",
-  "dependencies": {
-    "@babel/core": "^7.23.6",
-    "@storybook/addon-actions": "^7.6.5",
-    "@storybook/addon-essentials": "^7.6.5",
-    "@storybook/addon-interactions": "^7.6.5",
-    "@storybook/addon-links": "^7.6.5",
-    "@storybook/addon-viewport": "^7.6.5",
-    "@storybook/html": "^7.6.5",
-    "@storybook/testing-library": "^0.2.2"
-  },
   "files": [
     "package.json",
     "README.md",
@@ -28,7 +18,11 @@
     "public"
   ],
   "devDependencies": {
-    "@babel/preset-env": "^7.23.6",
+    "@storybook/addon-actions": "^7.6.5",
+    "@storybook/addon-essentials": "^7.6.5",
+    "@storybook/addon-interactions": "^7.6.5",
+    "@storybook/addon-links": "^7.6.5",
+    "@storybook/addon-viewport": "^7.6.5",
     "@storybook/html-vite": "^7.6.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
