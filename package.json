@@ -15,7 +15,8 @@
     "README.md",
     "LICENSE",
     "src",
-    "public"
+    "public",
+    "vite.config.mjs"
   ],
   "devDependencies": {
     "@storybook/addon-actions": "^7.6.5",
